@@ -1,0 +1,35 @@
+body{background-color: rgb(160, 96, 47);}
+.mast{
+        display: flex;
+        border-radius:10px ;
+        justify-content: space-evenly;}
+#one{float: left;
+  border-radius: 10px;
+        flex-direction: column;
+        background-color: rgb(206, 176, 141);
+        }
+#two{float: right;
+        flex-direction: column;
+       padding: 20px;
+        background-color: rgb(226, 198, 156); }
+#invitation{text-align: center;
+        font-style: italic;}
+#names{text-align: center;
+        font-style: italic;}
+.eve{
+        border-radius: 10px;
+        display: flex;
+        justify-content: space-evenly;
+}
+#order{
+        flex-direction: column;
+        padding: 20px;
+        background-color: rgb(197, 170, 136);
+        margin:50px ;
+}
+#four{
+        flex-direction: column;
+        padding:20px ;
+        margin: 50px;
+        background-color: rgb(228, 214, 150)45, 233, 220);
+}
